@@ -1,7 +1,7 @@
 - 🎓 Studying Business Administration at Kyunghee University
 - 👾 Writes code only for fun
 - 🔭 Interests: Self-hosting 🏠, Privacy 🔒, Networking 🔗, Web Development 🌐, Data Archiving 📁
-- 🗣️ Languages: English / Korean / (Some) Japanese
+- 🗣️ Languages: English / Korean (Native) / (Some) Japanese
 - 💻 Writes in: Python / JS
 - 🏠 Things I selfhost:
     - Nextcloud
